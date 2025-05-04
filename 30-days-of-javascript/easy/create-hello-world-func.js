@@ -1,4 +1,5 @@
-// https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript
+// 2667. Create Hello World Function
+// https://leetcode.com/problems/create-hello-world-function/description/
 
 // closures
 function createHelloWorld() {
