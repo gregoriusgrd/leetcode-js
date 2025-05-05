@@ -23,3 +23,5 @@ var createCounter = function (init) {
     reset: reset,
   };
 };
+
+// using class (soon)
